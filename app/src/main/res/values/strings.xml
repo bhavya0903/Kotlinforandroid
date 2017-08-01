@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">xolo_assignment</string>
+    <string name="hint_email">Your Email</string>
+    <string name="Phone_Number">Phone Number</string>
+    <string name="your_name">Your Name</string>
+    <string name="set_password">Set Password</string>
+    <string name="err_msg_name">Enter your full name</string>
+    <string name="err_msg_email">Enter valid email address</string>
+    <string name="err_msg_password">Enter the password</string>
+    <string name="welcome">Welcome ZOLO  STAYS..!!!</string>
+
+</resources>
